@@ -40,7 +40,4 @@ public class test1 {
 	public void setSex(String sex) {
 		Sex = sex;
 	}
-	
-	
-	
 }
